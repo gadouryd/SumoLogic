@@ -29,7 +29,7 @@ AWS_SECRET_ACCESS_KEY = 'PUT YOUR SECRET ACCESS KEY HERE'
 ### Set Global Variables ###
 
 # The Sumo Logic collector where we are sending logs
-url = 'https://collectors.sumologic.com/receiver/v1/http/ZaVnC4dhaV2QuDheBqJVYAR26vsjG4CwB1CNpUQwJJ8OWLd8wB1bOCX4BYrYiYah7oL_hqQCB-R-X0e0QdIMSQM3JuBuWNr856CiFZRO-0gsY1CIzOit2g=='
+url = 'SUMO LOGIC ENDPOINT'
 
 # The file where we are writing our logs
 boto_log = '/home/ubuntu/log/boto.log'
